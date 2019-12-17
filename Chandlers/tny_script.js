@@ -15,7 +15,7 @@
 
 
 
-//window.alert ("IMPORTANT NOTICE: I quit my job guys sorry! The event is now cancelled -Chandler Bing");
+window.alert ("IMPORTANT NOTICE: I quit my job guys sorry! The event is now cancelled -Chandler Bing");
 
 //Boom you lookin for this?
 
